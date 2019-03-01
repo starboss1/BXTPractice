@@ -6,6 +6,7 @@ public class Main {
 		String st = "string";
 		
 		System.out.println(x);
+		var = "Bad logic";
 	}
 
 	
